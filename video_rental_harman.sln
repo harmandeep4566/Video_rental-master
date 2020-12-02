@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "video_rental_harman", "video_rental_harman\video_rental_harman.csproj", "{D7A161C9-3680-41BB-8587-E5B6087A8FF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "video_rental_harmanTests", "video_rental_harmanTests\video_rental_harmanTests.csproj", "{D63A9BA1-B280-41FB-9212-7AB4B0A80D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A161C9-3680-41BB-8587-E5B6087A8FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A161C9-3680-41BB-8587-E5B6087A8FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A161C9-3680-41BB-8587-E5B6087A8FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A161C9-3680-41BB-8587-E5B6087A8FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D63A9BA1-B280-41FB-9212-7AB4B0A80D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63A9BA1-B280-41FB-9212-7AB4B0A80D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63A9BA1-B280-41FB-9212-7AB4B0A80D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63A9BA1-B280-41FB-9212-7AB4B0A80D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F5C100-3674-46AB-9585-D2566C0B8288}
+	EndGlobalSection
+EndGlobal
